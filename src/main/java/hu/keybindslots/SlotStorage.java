@@ -69,7 +69,7 @@ public class SlotStorage {
     public static void saveCurrent(MinecraftClient mc, int slot) {
         Map<String, String> m = new LinkedHashMap<>();
         for (KeyBinding kb : mc.options.allKeys) {
-            m.put(kb.getTranslationKey(), kb.getBoundKeyTranslationKey());
+                        m.put(kb.getId(), kb.getBoundKeyTranslationKey());
         }
         data.binds.set(slot, m);
         save();
@@ -80,7 +80,7 @@ public class SlotStorage {
         Map<String, String> m = data.binds.get(slot);
         if (m.isEmpty()) return false;
         for (KeyBinding kb : mc.options.allKeys) {
-            String key = m.get(kb.getTranslationKey());
+                        String key = m.get(kb.getId());
             if (key == null) continue;
             try {
                 kb.setBoundKey(InputUtil.fromTranslationKey(key));
