@@ -1,6 +1,6 @@
 {
   "key.keybindslots.open": "Open Keybind Slots",
-  "category.keybindslots": "Keybind Slots",
+  "key.category.keybindslots.main": "Keybind Slots",
   "keybindslots.title": "Keybind Slots",
   "keybindslots.save": "Save",
   "keybindslots.load": "Load",

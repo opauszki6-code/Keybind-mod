@@ -1,4 +1,4 @@
-# Keybind Slots (Fabric, MC 1.21.4)
+# Keybind Slots (Fabric, MC 1.21.11)
 
 - `í` gomb: megnyitja a slot menüt (Controls-ban átállítható)
 - 3 slot, a nevük átírható a szövegmezőben

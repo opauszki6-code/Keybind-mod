@@ -1,6 +1,6 @@
 {
   "key.keybindslots.open": "Keybind Slotok megnyitása",
-  "category.keybindslots": "Keybind Slotok",
+  "key.category.keybindslots.main": "Keybind Slotok",
   "keybindslots.title": "Keybind Slotok",
   "keybindslots.save": "Mentés",
   "keybindslots.load": "Betöltés",
