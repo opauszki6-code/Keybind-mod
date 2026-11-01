@@ -1,0 +1,11 @@
+{
+  "key.keybindslots.open": "Open Keybind Slots",
+  "category.keybindslots": "Keybind Slots",
+  "keybindslots.title": "Keybind Slots",
+  "keybindslots.save": "Save",
+  "keybindslots.load": "Load",
+  "keybindslots.done": "Done",
+  "keybindslots.saved": "Current keybinds saved to the slot.",
+  "keybindslots.loaded": "Slot loaded, keybinds applied.",
+  "keybindslots.empty": "This slot is empty."
+}

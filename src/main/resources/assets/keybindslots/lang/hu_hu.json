@@ -1,0 +1,11 @@
+{
+  "key.keybindslots.open": "Keybind Slotok megnyitása",
+  "category.keybindslots": "Keybind Slotok",
+  "keybindslots.title": "Keybind Slotok",
+  "keybindslots.save": "Mentés",
+  "keybindslots.load": "Betöltés",
+  "keybindslots.done": "Kész",
+  "keybindslots.saved": "A jelenlegi keybindok elmentve a slotba.",
+  "keybindslots.loaded": "Slot betöltve, a keybindok átállítva.",
+  "keybindslots.empty": "Ez a slot üres."
+}
